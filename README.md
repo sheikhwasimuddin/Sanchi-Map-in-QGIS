@@ -1,2 +1,3 @@
 # Sanchi-Map-in-QGIS
 GIS
+QGIS is used for creating, viewing, analyzing, and publishing geographic data and maps. It's a free, open-source Geographic Information System (GIS) software used in fields like environmental science, urban planning, and agriculture for tasks such as managing spatial data, performing geoprocessing and analysis, designing maps for print or web, and integrating various data sources. 
